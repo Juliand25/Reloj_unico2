@@ -1,0 +1,14 @@
+vertical_position = 0 
+ 
+def setup(): 
+     
+    size(250, 500) 
+     
+         
+         
+def draw(): 
+     
+    global vertical_position 
+     
+    background(180) 
+     
